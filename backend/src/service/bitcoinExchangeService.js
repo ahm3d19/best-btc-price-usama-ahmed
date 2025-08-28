@@ -1,4 +1,3 @@
-// service/bitcoinExchangeService.js
 const fetch = require("node-fetch");
 
 const API_TIMEOUT = 3000; // 3 seconds
