@@ -16,6 +16,7 @@ Runs on: http://localhost:3000
 
 ```bash
 cd frontend
+cd web
 npm install
 npm run dev
 ```
@@ -25,7 +26,8 @@ Runs on: http://localhost:5173
 ### Mobile App Setup (Expo)
 
 ```bash
-cd mobile-app
+cd frontend
+cd mobile
 npm install
 npx start
 ```
